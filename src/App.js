@@ -1,4 +1,4 @@
-
+import './App.css'
 const App = () => {
   return (
   <div>
@@ -30,8 +30,8 @@ const App = () => {
 
 const Person = (props) => {
   return (
-    <div>
-      <h2>Hello there {props.name} and I'm {props.age}.</h2>
+    <div className = "person">
+      <h1>Hello there {props.name} and I'm {props.age}.</h1>
       <Job job = {props.job}/>
       <Pet petName = {props.petName} type = {props.type}/>
     </div>
