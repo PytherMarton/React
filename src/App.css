@@ -32,3 +32,17 @@
   padding: 4px;
   font-size: 0.85rem;
 }
+
+body {
+  background: black;
+}
+
+.netflix {
+  width: 240px;
+  box-sizing: border-box;
+  display: inline-block;
+  flex-direction: column;
+  /* margin: 1px; */
+  padding: 4px;
+  font-size: 0.85rem;
+}
