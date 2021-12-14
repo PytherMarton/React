@@ -1,7 +1,11 @@
+/* Test */
+
 /* .person {
   border: solid red 3px;
 }
  */
+
+ /* Challanege1 */
 
 .bbc {
   width: 224px;
@@ -11,6 +15,8 @@
   margin: 4px;
   padding: 4px;
 }
+
+/* Challange2 */
 
 .p {
   margin-top: -10px;
@@ -33,6 +39,9 @@
   font-size: 0.85rem;
 }
 
+
+/* Challenge3 */
+
 body {
   background: black;
 }
@@ -42,7 +51,6 @@ body {
   box-sizing: border-box;
   display: inline-block;
   flex-direction: column;
-  /* margin: 1px; */
   padding: 4px;
   font-size: 0.85rem;
 }
