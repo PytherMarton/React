@@ -5,7 +5,7 @@ import bbc2 from "../Images/bbc2.png";
 import bbc3 from "../Images/bbc3.png";
 import bbc4 from "../Images/bbc4.png";
 
-const Challange1 = () => {
+const Challenge1 = () => {
     return (
     <div>
         <Bbc 
@@ -59,4 +59,4 @@ const Images = (img) => {
     );
 }
 
-export default Challange1
+export default Challenge1

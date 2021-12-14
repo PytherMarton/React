@@ -22,3 +22,13 @@
   margin-top: -5px;
   font-size: 0.7rem;
 }
+
+.airbnb {
+  width: 285px;
+  box-sizing: border-box;
+  display: inline-block;
+  flex-direction: column;
+  margin: 4px;
+  padding: 4px;
+  font-size: 0.85rem;
+}
