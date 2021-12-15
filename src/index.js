@@ -8,6 +8,7 @@ import "./index.css";
 // import IntroState from './State/IntroState.js'
 // import SignInButton from "./State/ternary";
 // import Calculator from "./State/calculator";
-import MapMethod from "./State/map";
+// import MapMethod from "./State/map";
+import Common from "./common.Situations/Common";
 
-ReactDOM.render(<MapMethod />, document.getElementById("root"));
+ReactDOM.render(<Common />, document.getElementById("root"));
